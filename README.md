@@ -27,7 +27,7 @@ development follow the steps below.
 2. Checkout this repository: `$ git clone https://github.com/LivelyKernel/LivelyKernel`.
 3. Start the server: `$ cd LivelyKernel; npm start`
 
-Lively should now be running at [localhost:9001](http://localhost:9001/welcome.html).
+Lively should now be running at [localhost:9001](http://localhost:9001/welcome.html). For an example on howto proxy Lively behind an nginx and howto daemonize Lively with supervisor see the [lively-web.org setup](https://github.com/LivelyKernel/lively-web.org).
 
 ### VM distro (debian 7)
 
